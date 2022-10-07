@@ -1,0 +1,15 @@
+D:\programs\LessMusicPlayer\LessMusicPlayer\bin\Debug\LessMusicPlayer.exe.config
+D:\programs\LessMusicPlayer\LessMusicPlayer\bin\Debug\LessMusicPlayer.exe
+D:\programs\LessMusicPlayer\LessMusicPlayer\bin\Debug\LessMusicPlayer.pdb
+D:\programs\LessMusicPlayer\LessMusicPlayer\obj\Debug\LessMusicPlayer.csproj.AssemblyReference.cache
+D:\programs\LessMusicPlayer\LessMusicPlayer\obj\Debug\LessMusicPlayer.Form1.resources
+D:\programs\LessMusicPlayer\LessMusicPlayer\obj\Debug\LessMusicPlayer.Properties.Resources.resources
+D:\programs\LessMusicPlayer\LessMusicPlayer\obj\Debug\LessMusicPlayer.csproj.GenerateResource.cache
+D:\programs\LessMusicPlayer\LessMusicPlayer\obj\Debug\LessMusicPlayer.csproj.CoreCompileInputs.cache
+D:\programs\LessMusicPlayer\LessMusicPlayer\obj\Debug\LessMusicPlayer.exe
+D:\programs\LessMusicPlayer\LessMusicPlayer\obj\Debug\LessMusicPlayer.pdb
+D:\programs\LessMusicPlayer\LessMusicPlayer\bin\Debug\Interop.WMPLib.dll
+D:\programs\LessMusicPlayer\LessMusicPlayer\bin\Debug\AxInterop.WMPLib.dll
+D:\programs\LessMusicPlayer\LessMusicPlayer\obj\Debug\Interop.WMPLib.dll
+D:\programs\LessMusicPlayer\LessMusicPlayer\obj\Debug\AxInterop.WMPLib.dll
+D:\programs\LessMusicPlayer\LessMusicPlayer\obj\Debug\LessMusicPlayer.csproj.ResolveComReference.cache
